@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <header>
+        <h1>LABOTARIO 2</h1>
+    </header>
+
+<title>LABORATORIO 2</title>
+
+</head>
+
+<body>
+
+<table border="1" cellspacing="1">
+
+<tr style="background-color: aqua;">
+
+<td style="color: blue;" width="300" height="300" ><IMg></IMg></td>
+
+<td style="color: blue;" width="300" height="300">Contenido de la celda 2</td>
+
+
+</tr>
+
+<tr style="background-color: green;">
+
+<td style="color:chocolate;" width="300" height="300">Contenido de la celda 4</td>
+
+<td style="color:chocolate;" width="300" height="300">Contenido de la celda 5</td>
+
+
+</tr>
+
+<tr style="background-color: tomato;"> 
+<td style="color: wheat;" width="300" height="300"><img src="C:\Users\USER\Desktop\lab2"></td>
+
+<td style="color: wheat;" width="300" height="300">Contenido de la celda 8</td>
+
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
